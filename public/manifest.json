@@ -1,0 +1,21 @@
+{
+  "name": "Sable - Privacy-First Social Network",
+  "short_name": "Sable",
+  "description": "A privacy-first, end-to-end encrypted social micro-network built on trust — not algorithms",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["social", "productivity"],
+  "lang": "en",
+  "dir": "ltr"
+} 
